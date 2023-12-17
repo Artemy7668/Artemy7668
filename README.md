@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artemy7668
 - 👀 I’m interested in code writing
-- 🌱 I’m currently learning java,swift
+- 🌱 I’m currently learning java and swift
 - 💞️ I’m looking to collaborate on aplle
 - 📫 How to reach me alexander12097@mail.ru
 
